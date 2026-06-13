@@ -7,7 +7,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <div align="center">
-  <img height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img height="220" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamY5N21sNzFuaGg4NnAxNzQzY3JjOGtlNWV4Nm00d28xeW9lYzVzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)"/>
 </div>
 
 ---
