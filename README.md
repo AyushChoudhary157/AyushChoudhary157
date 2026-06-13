@@ -1,83 +1,124 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&text=Ayush%20Choudhary&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Tooling%20%26%20Automation&descAlignY=58&descSize=18" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+tools+%26+automations;MCP+Servers+%7C+Node.js+%7C+Java+%7C+Python;Turning+messy+data+into+clean+systems" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://discord.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="mailto:youremail@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-## 🧑‍💻 About Me
-
-- 🔭 Currently working as a **Software Engineer / Operations Intern**, building AI tooling, automation pipelines, and data-driven systems
-- 🛠️ Experienced with **MCP servers**, **Google Sheets/Drive automation**, and **AI-powered document generation**
-- 🌱 Constantly learning about leadership, productivity systems, and scalable engineering practices
-- ⚡ Fun fact: I enjoy converting messy data and content into polished, professional deliverables
-
-<br/>
-
-## 🧰 Tech Stack
+<br clear="both">
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Ayush%20Choudhary&fontSize=70&fontColor=FFFFFF&animation=fadeIn&color=gradient"/>
 </div>
 
-<br/>
+<h3 align="center">Software Engineer</h3>
+
+<div align="center">
+  <img height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,spring,nodejs,mysql,postgres,mongodb,html,css,react,git,github,docker" />
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyushChoudhary157&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="170" alt="github stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushChoudhary157&theme=dracula&hide_border=true" height="170" alt="streak stats"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushChoudhary157&layout=compact&theme=dracula&hide_border=true" height="170" alt="top languages"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushChoudhary157&show_icons=true&theme=dracula&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushChoudhary157&layout=compact&theme=dracula" height="160"/>
 </div>
 
-<br/>
+---
 
-## 🏆 Trophies
+## 🔥 GitHub Streak
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AyushChoudhary157&theme=dracula&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://streak-stats.demolab.com?user=AyushChoudhary157&theme=dracula" height="170"/>
 </div>
 
-<br/>
+---
 
-<div>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer" width="100%"/>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyushChoudhary157&theme=dracula&row=1&column=6"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```java
+class AyushChoudhary {
+
+    String role = "Software Engineer";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "React",
+        "Node.js",
+        "JavaScript",
+        "Python"
+    };
+
+    String[] interests = {
+        "Full Stack Development",
+        "System Design",
+        "Cloud Computing",
+        "Problem Solving"
+    };
+
+}
+```
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AyushChoudhary157">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> **Code. Learn. Build. Repeat. 🚀**
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
 </div>
