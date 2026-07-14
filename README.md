@@ -1,103 +1,192 @@
+<h1 align="center">Hello World!👋, I'm Ayush Choudhary</h1>
+<h3 align="center">A passionate Software Engineer <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
+
+<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" >
+
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=aniketmondal1210&label=Profile%20views&color=10b981&style=flat" alt="aniketmondal1210" /> <br>
+
+<a href="https://wakatime.com/@aniketmondal1210"> 
+  <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@aniketmondal1210" /> 
+</a> 
+<br>
+<img src="https://img.shields.io/badge/Computer%20Science-Undergraduate-6366f1?style=flat&logo=google-scholar&logoColor=white" alt="CS Undergraduate"/>
+<img src="https://img.shields.io/badge/Academic-3rd%20Year-ec4899?style=flat&logo=openbadges&logoColor=white" alt="Third Year"/>
+<br>
+<img src="https://img.shields.io/badge/AI%2FML-Developer-f97316?style=flat&logo=python&logoColor=white" alt="AI/ML Developer"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/aniketmondal1210"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/aniketmondal1210">
+</p>
+
+<h2><img height="30" src="https://media4.giphy.com/media/5quAQha5cHPayUytEh/giphy.gif?cid=ecf05e47dv4ewvx2qa2b2wgqa361owg5429ctklzlan3hmob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> About me:</h2>
+
+#### Hi there! 👋
+
+💻 I am passionate about building efficient and scalable applications, with a strong focus on problem-solving and writing clean, maintainable code. I have a keen interest in backend development and enjoy turning ideas into practical solutions using creative and intuitive approaches.
+
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+</p>
+
+#### 🌱 I'm Currently Learning:
+
+- Diving into Data Structures and Algorithms (DSA) to sharpen my problem-solving skills.
+- Java to enhance my coding proficiency.
+- Also learning Python.
+
+#### 👯 I’m Looking to:
+
+- Connect with other students and developers.
+- Collaborate on interesting projects.
+- Learn from and contribute to the open-source community.
+
+#### 📫 How to Reach Me:
+
+- Email: ayushsairam157@gmail.com
+
+#### 🏆 Achivement:
+
+Secured 2nd place at Hack-a-Throne 1.0 (AIESEC), where I collaborated with a team to solve real-world problems in a fast-paced hackathon environment.
+
+Happy coding! 🚀
+
+<h2><img height="30" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlkMmJxM3F0ZzVnaHBpYW9yc2w4c2hkOXl0MnpjNzdwZmZiZWk2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RTUOrALrZCuPydY4sf/giphy.gif"/> Connect with me:</h2>
+<p align="left">
+<a href="https://twitter.com/aniketmondal121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketmondal121" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketmondal1210" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22981426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22981426" height="30" width="40" /></a>
+<a href="https://kaggle.com/aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aniket21destiny" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aniket21dstny" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="aniket21dstny" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aniketmondal1210" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniket21destiny" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniket21destiny" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/e10751ddb9a7926eee083c77d1a99ddca64a2c04/icons/hackerearth.svg" alt="@aniket21destiny" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketmondal1210" height="30" width="40" /></a>
+</p>
+
+<h2><img height="45" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>Languages and Tools:</h2>
+<table>
+  <tr>
+    <th align="center">Web Development</th>
+    <th align="center">Backend & Python Stack</th>
+    <th align="center">Data Science & ML</th>
+    <th align="center">Databases</th>
+    <th align="center">Tools & Deployment</th>
+    <th align="center">Languages</th>
+  </tr>
+
+  <tr>
+<!-- WEB DEV -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" height="40"/>
+      <img src="https://skillicons.dev/icons?i=css" height="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=js" height="40"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=vue" height="40"/>
+    </td>
+
+<!-- BACKEND -->
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" height="40"/>
+      <img src="https://skillicons.dev/icons?i=django" height="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=flask" height="40"/>
+      <img src="https://skillicons.dev/icons?i=anaconda" height="40"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
+      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40"/>
+    </td>
+
+<!-- DATA SCIENCE -->
+   <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+      <img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=opencv" height="40"/>
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br/>
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+    </td>
+
+<!-- DATABASES -->
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+      <img src="https://skillicons.dev/icons?i=sqlite" height="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+    </td>
+
+<!-- TOOLS -->
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" height="40"/>
+      <img src="https://skillicons.dev/icons?i=linux" height="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=heroku" height="40"/>
+      <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+    </td>
+
+<!-- LANGUAGES -->
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" height="40"/>
+      <img src="https://skillicons.dev/icons?i=py" height="40"/>
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ241djRsZXUzaDI1OGQycXlwOWw3b3FhajA5cTQwaHE0NGJ5eGU4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoN2bykCKNOrpNxIlT/giphy.gif" width="40" style="vertical-align: middle;"/>
+  Coding Profiles Stats:
+</h2>
+
+<p> <img align="left" src="https://leetcard.jacoblin.cool/aniket21destiny?ext=contest" alt="aniket21destiny" width="370px"> </p>
+<p> <img align="right" src="https://codeforces-readme-stats.vercel.app/api/card?username=ANIKETMONDAL1210&theme=tokyonight" alt="aniketmondal1210"> </p>
+<a href="https://www.geeksforgeeks.org/user/aniketmondal1210/">
+  <img align="center" src="https://gfgstatscard.vercel.app/aniketmondal1210" alt="GFG stats" />
+</a>
+
+<h2><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> GitHub Stats:</h2>
+
 <div align="center">
 
-# Hi, I'm Ayush Choudhary 👋
-### Software Engineer @ FrugalTesting | AI Tooling & Automation | B.Tech CSE @ LPU
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+tools+and+automation;MCP+Servers+%7C+Claude+%7C+Google+APIs;Turning+messy+data+into+clean+reports;Always+learning%2C+always+growing" alt="Typing SVG" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Connect](https://img.shields.io/badge/Connect-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](#)
+  <table>
+    <p align='center'>
+      <p align="center"><img src="lofi-gopher-4-min.png" alt="lofi-gopher" width="310" /><img src="https://github-readme-stats-git-main-jsoncam.vercel.app/api?username=aniketmondal1210&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&text_color=FFFFFF&icon_color=48ACF0&bg_color=00000000&card_width=400&show=prs_merged" alt="GitHub Stats" />
+    </p>
+        <td align="center">
+          <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
+          <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="GitHub Streak Stats"/>
+          <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="130px" height="150px">
+        </td>
+      </tr>
+    </table>
+  
+  </div>
+    </tr>
+  </table>
 
 </div>
 
----
+<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aniketmondal1210&layout=compact&theme=default" /></p>
 
-### 🧠 About Me
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
 
-```javascript
-const ayush = {
-    role: "Software Engineer @ FrugalTesting",
-    education: "B.Tech CSE, Lovely Professional University",
-    location: "Hyderabad, India",
-};
-```
-
----
-
-### 🛠 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge&logo=protocols&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🤖 **Hiring Evaluation System** | Multi-module CV & assignment evaluator for BA / SCRUM intern roles with ranked leaderboards |
-| 📊 **Google Sheets MCP Server** | Custom TypeScript MCP server enabling Claude to read/write Google Sheets directly |
-| 💬 **Slack Reminder Agent Bot** | Automated reminders & action-tracking integration for team workflows |
-| 💰 **Personal Finance Tool** | Expense & budget tracker built with Claude Code |
-| 🏙 **Smart City** | Web app for city exploration — utilities info, food places, EV charging, SOS features |
-| 🧩 **Sudoku Solver** | Backtracking-algorithm based Sudoku solver with multi-tab support |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushChoudhary157&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushChoudhary157&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushChoudhary157&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushChoudhary157&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-### 🎯 2026 Goals
-
-- 🔹 Deepen expertise in AI tooling, MCP servers & agent workflows
-- 🔹 Contribute to open-source automation projects
-- 🔹 Strengthen DSA fundamentals with consistent practice
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-2E9EF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interested_in-AI%20%26%20Automation-success?style=for-the-badge" />
-</p>
-
+<h2><img height="50" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"/> GitHub Contributions:</h2>
 <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketmondal1210&bg_color=ffffff&color=000000&line=007acc&point=ff6f61&area=true&hide_border=false" style="border-radius: 15px;">
+</div>
 
-⭐️ *"First, solve the problem. Then, write the code."* — John Johnson
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
+
+<p align="center">
+   <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=f0f0f0&author_color=000000&quote_color=333333">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+### ...Show some ❤️ by starring some of the repositories 😊!
 
 </div>
+
+<p align="center">
+<img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
