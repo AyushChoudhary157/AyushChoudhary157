@@ -1,23 +1,11 @@
 <h1 align="center">Hello World!👋, I'm Ayush Choudhary</h1>
 <h3 align="center">A passionate Software Engineer <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
 
-<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" >
+<div data-importer="image" align="center">
+  <img data-importer="image" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2E5YzVkYXI1ejhiOHR3MjRxZXQ5anR4b2pxZjN2ZG1qYmFqOHozaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
+</div>
 
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=aniketmondal1210&label=Profile%20views&color=10b981&style=flat" alt="aniketmondal1210" /> <br>
-
-<a href="https://wakatime.com/@aniketmondal1210"> 
-  <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@aniketmondal1210" /> 
-</a> 
-<br>
-<img src="https://img.shields.io/badge/Computer%20Science-Undergraduate-6366f1?style=flat&logo=google-scholar&logoColor=white" alt="CS Undergraduate"/>
-<img src="https://img.shields.io/badge/Academic-3rd%20Year-ec4899?style=flat&logo=openbadges&logoColor=white" alt="Third Year"/>
-<br>
-<img src="https://img.shields.io/badge/AI%2FML-Developer-f97316?style=flat&logo=python&logoColor=white" alt="AI/ML Developer"/>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/aniketmondal1210"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/aniketmondal1210">
-</p>
-
-<h2><img height="30" src="https://media4.giphy.com/media/5quAQha5cHPayUytEh/giphy.gif?cid=ecf05e47dv4ewvx2qa2b2wgqa361owg5429ctklzlan3hmob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> About me:</h2>
+<h2> About me:</h2>
 
 #### Hi there! 👋
 
