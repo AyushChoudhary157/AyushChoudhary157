@@ -14,6 +14,9 @@
 <p align = 'right'>
 <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
 </p>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 #### 🌱 I'm Currently Learning:
 
@@ -37,25 +40,11 @@ Secured 2nd place at Hack-a-Throne 1.0 (AIESEC), where I collaborated with a tea
 
 Happy coding! 🚀
 
-<h2><img height="30" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlkMmJxM3F0ZzVnaHBpYW9yc2w4c2hkOXl0MnpjNzdwZmZiZWk2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RTUOrALrZCuPydY4sf/giphy.gif"/> Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/aniketmondal121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketmondal121" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketmondal1210" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22981426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22981426" height="30" width="40" /></a>
-<a href="https://kaggle.com/aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aniket21destiny" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aniket21dstny" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="aniket21dstny" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aniketmondal1210" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniket21destiny" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniket21destiny" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/e10751ddb9a7926eee083c77d1a99ddca64a2c04/icons/hackerearth.svg" alt="@aniket21destiny" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketmondal1210" height="30" width="40" /></a>
-</p>
-
-<h2><img height="45" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>Languages and Tools:</h2>
+<h2>Languages and Tools:</h2>
 <table>
   <tr>
-    <th align="center">Web Development</th>
-    <th align="center">Backend & Python Stack</th>
+    <th align="center">Frontend</th>
+    <th align="center">Backend</th>
     <th align="center">Data Science & ML</th>
     <th align="center">Databases</th>
     <th align="center">Tools & Deployment</th>
@@ -63,7 +52,7 @@ Happy coding! 🚀
   </tr>
 
   <tr>
-<!-- WEB DEV -->
+<!-- FRONTEND -->
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html" height="40"/>
       <img src="https://skillicons.dev/icons?i=css" height="40"/><br/>
@@ -117,48 +106,7 @@ Happy coding! 🚀
   </tr>
 </table>
 
-<h2 align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ241djRsZXUzaDI1OGQycXlwOWw3b3FhajA5cTQwaHE0NGJ5eGU4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoN2bykCKNOrpNxIlT/giphy.gif" width="40" style="vertical-align: middle;"/>
-  Coding Profiles Stats:
-</h2>
-
-<p> <img align="left" src="https://leetcard.jacoblin.cool/aniket21destiny?ext=contest" alt="aniket21destiny" width="370px"> </p>
-<p> <img align="right" src="https://codeforces-readme-stats.vercel.app/api/card?username=ANIKETMONDAL1210&theme=tokyonight" alt="aniketmondal1210"> </p>
-<a href="https://www.geeksforgeeks.org/user/aniketmondal1210/">
-  <img align="center" src="https://gfgstatscard.vercel.app/aniketmondal1210" alt="GFG stats" />
-</a>
-
 <h2><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> GitHub Stats:</h2>
-
-<div align="center">
-
-  <table>
-    <p align='center'>
-      <p align="center"><img src="lofi-gopher-4-min.png" alt="lofi-gopher" width="310" /><img src="https://github-readme-stats-git-main-jsoncam.vercel.app/api?username=aniketmondal1210&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&text_color=FFFFFF&icon_color=48ACF0&bg_color=00000000&card_width=400&show=prs_merged" alt="GitHub Stats" />
-    </p>
-        <td align="center">
-          <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
-          <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="GitHub Streak Stats"/>
-          <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="130px" height="150px">
-        </td>
-      </tr>
-    </table>
-  
-  </div>
-    </tr>
-  </table>
-
-</div>
-
-<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aniketmondal1210&layout=compact&theme=default" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
-
-<h2><img height="50" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"/> GitHub Contributions:</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketmondal1210&bg_color=ffffff&color=000000&line=007acc&point=ff6f61&area=true&hide_border=false" style="border-radius: 15px;">
-</div>
 
 <h2 align="center">🌟 Thought of the Day 🌟</h2>
 
@@ -168,13 +116,10 @@ Happy coding! 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
-### ...Show some ❤️ by starring some of the repositories 😊!
-
 </div>
 
 <p align="center">
-<img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
+<img height="250" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
