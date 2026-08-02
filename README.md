@@ -14,9 +14,9 @@
 # `I AM - Ayush Choudhary`
 <h3 align="center">Software Engineer | Java | SQL | Spring Boot | AI Explorer</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-N.Gulshan_Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-choudhary-172b3b257/)
-[![GitHub](https://img.shields.io/badge/GitHub-gulshan0201-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AyushChoudhary157)
-[![Email](https://img.shields.io/badge/Email-gulshan.crj26@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](ayushsairam157@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Choudhary-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-choudhary-172b3b257/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ayush157-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AyushChoudhary157)
+[![Email](https://img.shields.io/badge/Email-ayushsairam157@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushsairam157@gmail.com)
 
 </div>
 <h3 align="center">A passionate Software Engineer <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
