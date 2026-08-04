@@ -61,6 +61,43 @@ Happy coding! 🚀
 
 ---
 
+## 🚀 Projects
+
+### 👁️ Pedestrian Detection using YOLOv8
+> Real-time pedestrian detection · **94.1% mAP@50** · **80 FPS** · Outperforms Faster R-CNN
+
+- Engineered a low-latency inference pipeline (12.5ms per frame) for live video streams
+- Built Python data pipeline for preprocessing & YOLO format conversion — 50 training epochs
+- Benchmarked against Faster R-CNN; delivered superior speed-accuracy trade-off
+
+`YOLOv8` `Python` `Computer Vision` `OpenCV` `Dataset Engineering`
+
+---
+
+### 🧠 Customer Churn Prediction (ANN)
+> Deep Learning model to predict customer churn · ANN architecture · High precision
+
+- End-to-end pipeline: data preprocessing, missing value handling, feature transformation
+- Evaluated via Precision, Recall, F1-score with Seaborn visualizations
+- Tuned architecture for optimal convergence and generalization
+
+`Python` `Keras` `Pandas` `Scikit-learn` `Seaborn`
+
+---
+
+### 🚗 Used Car Price Classification
+> Random Forest classifier · **83% accuracy** · 3-segment market categorization
+
+- Applied Regex to extract engine sizes from unstructured text data
+- Engineered custom target variable using price percentiles
+- Full pipeline: Label Encoding → Standard Scaling → Stratified Split
+
+`Python` `Random Forest` `Regex` `Feature Engineering` `Scikit-learn`
+
+---
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -93,6 +130,25 @@ Happy coding! 🚀
 ![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td>
+
+### Software Engineer @ Frugal Testing
+**April 2026 → Present**
+
+- 🎙️ Conducted functional testing on **Samvaad**, **Sarvam.ai**'s voice-agent conversation platform, validating agent workflows across build, deploy, and connector modules
+- 🐛 Tracked and triaged bugs using structured trackers and Jam.dev recordings, collaborating with cross-functional engineers to resolve issues pre-launch
+- 🚀 Supported end-to-end campaign validation and launch readiness for a client-facing voice AI product
+
+</td>
+</tr>
+</table>
 
 ---
 
