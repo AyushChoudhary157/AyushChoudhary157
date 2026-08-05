@@ -24,38 +24,35 @@
   <img data-importer="image" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2E5YzVkYXI1ejhiOHR3MjRxZXQ5anR4b2pxZjN2ZG1qYmFqOHozaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
 </div>
 
-<h2> About me:</h2>
+## About Me
 
-#### Hi there! 👋
+### 👋 Hi there!
 
-💻 I am passionate about building efficient and scalable applications, with a strong focus on problem-solving and writing clean, maintainable code. I have a keen interest in backend development and enjoy turning ideas into practical solutions using creative and intuitive approaches.
+I'm a Software Engineer with a strong focus on backend development and problem-solving. I enjoy designing efficient, scalable systems and turning ideas into clean, maintainable code — with a growing interest in applying AI to practical, real-world problems.
 
-<p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
-</p>
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-#### 🌱 I'm Currently Learning:
+### 🌱 Currently Learning
 
-- Diving into Data Structures and Algorithms (DSA) to sharpen my problem-solving skills.
-- Java to enhance my coding proficiency.
-- Also learning Python.
+- Data Structures & Algorithms (DSA) — sharpening core problem-solving skills
+- Java — deepening backend development proficiency
+- Python — expanding into a second core language
 
-#### 👯 I’m Looking to:
+### 👯 Looking To
 
-- Connect with other students and developers.
-- Collaborate on interesting projects.
-- Learn from and contribute to the open-source community.
+- Connect with fellow students and developers
+- Collaborate on interesting, real-world projects
+- Learn from and contribute to the open-source community
 
-#### 📫 How to Reach Me:
+### 🏆 Achievement
 
-- Email: ayushsairam157@gmail.com
+🥈 Secured 2nd place at **Hack-a-Throne 1.0** (AIESEC), collaborating with a team to solve real-world problems in a fast-paced hackathon environment.
 
-#### 🏆 Achivement:
+### 📫 Reach Me
 
-Secured 2nd place at Hack-a-Throne 1.0 (AIESEC), where I collaborated with a team to solve real-world problems in a fast-paced hackathon environment.
+[![Email](https://img.shields.io/badge/Email-ayushsairam157@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushsairam157@gmail.com)
 
 Happy coding! 🚀
 
