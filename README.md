@@ -155,7 +155,7 @@ Happy coding! 🚀
 ### Software Engineer @ Frugal Testing
 **April 2026 → Present**
 
-- 🎙️ Conducted functional testing on **Samvaad**, **Sarvam.ai**'s voice-agent conversation platform, validating agent workflows across build, deploy, and connector modules
+- 🎙️ Performed functional testing on **Samvaad**, **Sarvam.ai**'s voice-agent conversation platform, validating agent workflows across build, deploy, and connector modules
 - 🐛 Tracked and triaged bugs using structured trackers and Jam.dev recordings, collaborating with cross-functional engineers to resolve issues pre-launch
 - 🚀 Supported end-to-end campaign validation and launch readiness for a client-facing voice AI product
 
