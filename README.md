@@ -63,38 +63,51 @@ Happy coding! 🚀
 
 ## 🚀 Projects
 
-### 👁️ Pedestrian Detection using YOLOv8
-> Real-time pedestrian detection · **94.1% mAP@50** · **80 FPS** · Outperforms Faster R-CNN
+### 🧘 StressLess — AI-Powered Mental Wellness Platform
 
-- Engineered a low-latency inference pipeline (12.5ms per frame) for live video streams
-- Built Python data pipeline for preprocessing & YOLO format conversion — 50 training epochs
-- Benchmarked against Faster R-CNN; delivered superior speed-accuracy trade-off
+> Full-stack stress assessment app · **15-question PSS-based test** · AI-driven analysis & chatbot · Secure OAuth 2.0
 
-`YOLOv8` `Python` `Computer Vision` `OpenCV` `Dataset Engineering`
+- Built full-stack platform with React 19 + Vite frontend and Express 5 REST API, using Prisma ORM over PostgreSQL
+- Integrated OpenRouter AI for personalized stress analysis and a conversational wellness chatbot (CalmBot)
+- Designed appointment booking, JWT + Google OAuth authentication, and a dashboard with Recharts-based progress visualization
 
----
-
-### 🧠 Customer Churn Prediction (ANN)
-> Deep Learning model to predict customer churn · ANN architecture · High precision
-
-- End-to-end pipeline: data preprocessing, missing value handling, feature transformation
-- Evaluated via Precision, Recall, F1-score with Seaborn visualizations
-- Tuned architecture for optimal convergence and generalization
-
-`Python` `Keras` `Pandas` `Scikit-learn` `Seaborn`
+`React` `Express.js` `PostgreSQL` `Prisma` `TailwindCSS` `OpenRouter AI` `JWT` `Google OAuth`
 
 ---
 
-### 🚗 Used Car Price Classification
-> Random Forest classifier · **83% accuracy** · 3-segment market categorization
+### 📚 BookVault — Personal Library
 
-- Applied Regex to extract engine sizes from unstructured text data
-- Engineered custom target variable using price percentiles
-- Full pipeline: Label Encoding → Standard Scaling → Stratified Split
+> Full-stack CRUD app · Session-based authentication · One-to-Many user–book architecture
 
-`Python` `Random Forest` `Regex` `Feature Engineering` `Scikit-learn`
+- Built full-stack app with Spring Boot backend, Thymeleaf + Bootstrap UI, and MySQL via Spring Data JPA/Hibernate
+- Designed user-scoped data model (One-to-Many User–Book relationship) with session-based auth to isolate each user's library
+- Implemented full CRUD operations (add, update, delete, view) with server-rendered dynamic pages using Thymeleaf
+
+`Spring Boot` `Spring Data JPA` `Hibernate` `Thymeleaf` `Bootstrap` `MySQL`
 
 ---
+
+### 🤖 Quiz App Automation Framework — Selenium + TestNG
+
+> End-to-end test automation · Extent Reports with screenshot capture · Explicit-wait driven stability
+
+- Automated complete quiz flow (landing page → difficulty selection → answering → submission → results validation) using Java, Selenium WebDriver, and TestNG
+- Integrated Extent Reports for step-by-step execution logs with automatic screenshot capture on each test run
+- Applied explicit waits, exception handling, and reusable methods to build a stable, maintainable automation suite
+  
+`Java` `Selenium WebDriver` `TestNG` `Extent Reports`
+
+---
+
+### 🏙️ Smart City — Unified Urban Services Platform
+
+> Multi-module city services app · Smart Parking, EV Charging, Medical Assistance, Disaster Alerts & SOS · Single-platform design
+
+- Built responsive web app consolidating six city service modules (Parking, EV Charging, Medical Assistance, Disaster Management, Community Engagement, SOS) into one platform
+- Designed "Know Your City" recommendation module for personalized restaurant, mall, and tourist attraction suggestions
+- Developed Community Engagement system for citizens to report and track civic issues (streetlights, water supply, road damage) through resolution status
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
