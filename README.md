@@ -11,7 +11,7 @@
 <div align="center">
 
 # `I AM - Ayush Choudhary`
-<h3 align="center">Software Engineer | Java | SQL | Spring Boot | AI Explorer</h3>
+<h3 align="center">Software Engineer | Java | Spring Boot | SQL | AI Explorer</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Choudhary-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-choudhary-172b3b257/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ayush157-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AyushChoudhary157)
@@ -115,9 +115,8 @@ Happy coding! 🚀
 ### Languages 💻
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries 📚
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -126,10 +125,13 @@ Happy coding! 🚀
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### Tools & Technologies 🔧
+### Databases 🗄️
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms 🔧
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -161,8 +163,6 @@ Happy coding! 🚀
 </table>
 
 ---
-
-<h2><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> GitHub Stats:</h2>
 
 <h2 align="center">🌟 Thought of the Day 🌟</h2>
 
