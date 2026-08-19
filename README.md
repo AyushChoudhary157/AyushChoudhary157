@@ -28,7 +28,7 @@
 
 ### 👋 Hi there!
 
-I'm a Software Engineer with a strong focus on backend development and problem-solving. I enjoy designing efficient, scalable systems and turning ideas into clean, maintainable code — with a growing interest in applying AI to practical, real-world problems.
+I'm a Software Engineer with a strong focus on backend development and problem-solving. I enjoy designing efficient, scalable systems and turning ideas into clean, maintainable code - with a growing interest in applying AI to practical, real-world problems.
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
@@ -36,9 +36,9 @@ I'm a Software Engineer with a strong focus on backend development and problem-s
 
 ### 🌱 Currently Learning
 
-- Data Structures & Algorithms (DSA) — sharpening core problem-solving skills
-- Java — deepening backend development proficiency
-- Python — expanding into a second core language
+- Data Structures & Algorithms (DSA) - sharpening core problem-solving skills
+- Java - deepening backend development proficiency
+- Python - expanding into a second core language
 
 ### 👯 Looking To
 
@@ -60,7 +60,7 @@ Happy coding! 🚀
 
 ## 🚀 Projects
 
-### 🧘 StressLess — AI-Powered Mental Wellness Platform
+### 🧘 StressLess - AI-Powered Mental Wellness Platform
 
 > Full-stack stress assessment app · **15-question PSS-based test** · AI-driven analysis & chatbot · Secure OAuth 2.0
 
@@ -72,7 +72,7 @@ Happy coding! 🚀
 
 ---
 
-### 📚 BookVault — Personal Library
+### 📚 BookVault - Personal Library
 
 > Full-stack CRUD app · Session-based authentication · One-to-Many user–book architecture
 
@@ -84,7 +84,7 @@ Happy coding! 🚀
 
 ---
 
-### 🤖 Quiz App Automation Framework — Selenium + TestNG
+### 🤖 Quiz App Automation Framework - Selenium + TestNG
 
 > End-to-end test automation · Extent Reports with screenshot capture · Explicit-wait driven stability
 
@@ -96,7 +96,7 @@ Happy coding! 🚀
 
 ---
 
-### 🏙️ Smart City — Unified Urban Services Platform
+### 🏙️ Smart City - Unified Urban Services Platform
 
 > Multi-module city services app · Smart Parking, EV Charging, Medical Assistance, Disaster Alerts & SOS · Single-platform design
 
